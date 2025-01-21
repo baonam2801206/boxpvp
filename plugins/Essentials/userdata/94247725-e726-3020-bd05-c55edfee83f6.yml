@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.179.168.154
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737406745541
+  login: 1737406370641
+money: '0'
+last-account-name: Donii
+lastlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -63.82488124286465
+  y: 105.0
+  z: 798.2288847339744
+  yaw: -2.9364013671875
+  pitch: -2.177800178527832
+logoutlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -76.07345606294035
+  y: 104.0
+  z: 827.9521886773426
+  yaw: 134.24188232421875
+  pitch: 17.580001831054688

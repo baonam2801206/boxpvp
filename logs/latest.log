@@ -1,0 +1,542 @@
+[20:40:50] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-LTS; Microsoft Microsoft-10376803) on Linux 6.5.0-1025-azure (amd64)
+[20:40:50] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[20:40:50] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:40:50] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/AutoPickup.jar'...
+[20:40:51] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/AutoPickup.jar' in 480ms.
+[20:40:51] [ServerMain/INFO]: [PluginInitializerManager] Initialized 26 plugins
+[20:40:51] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (26):
+ - AutoPickup (1.4.6-SNAPSHOT), CataMines (2.5.11), ChatItem (2.6.2), ClearLag (3.2.2), DecentHolograms (2.8.12), EZColors (2.2.6), Enchantments_plus (4.0.5), Essentials (2.21.0-dev+155-803771e), EssentialsSpawn (2.21.0-dev+155-803771e), HubThat (10.1.184), ItemEdit (3.6.3), ItemTag (3.5.1), LPC (3.6.0), LoginSecurity (3.3.0), LuckPerms (5.4.152), PlaceholderAPI (2.11.6), PlayerVaults (3.6.0-bSNAPSHOT), ServersNPC (5.0), Shopkeepers (2.23.3), SkinsRestorer (15.5.1), Skript (2.10.0), TAB (5.0.3), ViaVersion (5.2.1), WorldEdit (7.3.9+6959-7adf70b), WorldGuard (7.0.11+068ad68), eShulkerBox (0.6.5)
+[20:40:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:40:57] [ServerMain/INFO]: Loaded 1290 recipes
+[20:40:57] [ServerMain/INFO]: Loaded 1399 advancements
+[20:40:57] [Server thread/INFO]: Starting minecraft server version 1.21
+[20:40:57] [Server thread/INFO]: Loading properties
+[20:40:57] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[20:40:58] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:40:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:40:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:40:59] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[20:40:59] [Server thread/INFO]: Default game type: SURVIVAL
+[20:40:59] [Server thread/INFO]: Generating keypair
+[20:40:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:40:59] [Server thread/INFO]: Using epoll channel type
+[20:40:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:40:59] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:41:00] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[20:41:01] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/boxpvp/libraries/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.jar
+[20:41:02] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:41:09] [Server thread/WARN]: Legacy plugin PlayerVaults v3.6.0-bSNAPSHOT does not specify an api-version.
+[20:41:09] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.2.1
+[20:41:09] [Server thread/INFO]: [ViaVersion] ViaVersion 5.2.1 is now loaded. Registering protocol transformers and injecting...
+[20:41:10] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:41:10] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[20:41:11] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.9+6959-7adf70b
+[20:41:13] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@32bf97f2]
+[20:41:13] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.152
+[20:41:13] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[20:41:13] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.11+068ad68
+[20:41:13] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+155-803771e
+[20:41:13] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.6.3
+[20:41:13] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.10.0
+[20:41:13] [Server thread/INFO]: [EZColors] Loading server plugin EZColors v2.2.6
+[20:41:13] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[20:41:13] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[20:41:13] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0-dev+155-803771e
+[20:41:13] [Server thread/INFO]: [Enchantments_plus] Loading server plugin Enchantments_plus v4.0.5
+[20:41:13] [Server thread/INFO]: [CataMines] Loading server plugin CataMines v2.5.11
+[20:41:13] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.12
+[20:41:13] [Server thread/INFO]: [AutoPickup] Loading server plugin AutoPickup v1.4.6-SNAPSHOT
+[20:41:13] [Server thread/INFO]: [LPC] Loading server plugin LPC v3.6.0
+[20:41:13] [Server thread/INFO]: [ItemTag] Loading server plugin ItemTag v3.5.1
+[20:41:13] [Server thread/INFO]: [ServersNPC] Loading server plugin ServersNPC v5.0
+[20:41:13] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[20:41:13] [Server thread/INFO]: [ChatItem] Loading server plugin ChatItem v2.6.2
+[20:41:13] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[20:41:13] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.23.3
+[20:41:14] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (981 ms).
+[20:41:14] [Server thread/INFO]: [Shopkeepers] Loading config.
+[20:41:14] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CREAKING
+[20:41:14] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[20:41:14] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[20:41:14] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CREAKING
+[20:41:14] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[20:41:14] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[20:41:14] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[20:41:14] [Server thread/INFO]: [HubThat] Loading server plugin HubThat v10.1.184
+[20:41:14] [Server thread/INFO]: [PlayerVaults] Loading server plugin PlayerVaults v3.6.0-bSNAPSHOT
+[20:41:14] [Server thread/INFO]: [eShulkerBox] Loading server plugin eShulkerBox v0.6.5
+[20:41:14] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin loading...
+[20:41:14] [Server thread/WARN]: [ShulkerBox] YOU ARE USING FREE eShulkerBox VERSION
+[20:41:14] [Server thread/WARN]: [ShulkerBox] We recommend using the paid version https://builtbybit.com/resources/eshulkerbox.41479/
+[20:41:14] [pool-21-thread-1/INFO]: [ShulkerBox] Unable to check for updates: https://api.spigotmc.org/legacy/update.php?resource=-1
+[20:41:14] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin loaded in 231ms
+[20:41:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:41:14] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.9+6959-7adf70b
+[20:41:14] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:41:15] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:41:15] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[20:41:16] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.152
+[20:41:16] [Server thread/INFO]:         __    
+[20:41:16] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.152
+[20:41:16] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[20:41:16] [Server thread/INFO]: 
+[20:41:16] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:41:17] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:41:17] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:41:17] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:41:17] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1308ms)
+[20:41:17] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[20:41:18] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[20:41:18] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[20:41:19] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:41:19] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.1]
+[20:41:19] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[20:41:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:41:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:41:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:41:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:41:19] [Server thread/INFO]: Preparing level "world"
+[20:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[20:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[20:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:41:20] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:41:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:41:21] [Server thread/INFO]: Time elapsed: 1182 ms
+[20:41:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:41:21] [Server thread/INFO]: Time elapsed: 313 ms
+[20:41:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:41:22] [Server thread/INFO]: Time elapsed: 207 ms
+[20:41:22] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.2.1
+[20:41:22] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[20:41:22] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[20:41:22] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[20:41:22] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.11+068ad68
+[20:41:23] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[20:41:23] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[20:41:23] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[20:41:23] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[20:41:23] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[20:41:23] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[20:41:23] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[20:41:23] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[20:41:23] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[20:41:23] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[20:41:23] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[20:41:23] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[20:41:23] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[20:41:23] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[20:41:23] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[20:41:23] [Server thread/INFO]: [WorldGuard] Loading region data...
+[20:41:23] [Server thread/WARN]: [WorldGuard] "WorldGuard v7.0.11+068ad68" has registered a listener for org.bukkit.event.entity.EntityKnockbackByEntityEvent on method "public void com.sk89q.worldguard.bukkit.listener.EventAbstractionListener.onEntityKnockbackByEntity(org.bukkit.event.entity.EntityKnockbackByEntityEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [].
+[20:41:23] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+155-803771e
+[20:41:24] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[20:41:24] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[20:41:24] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[20:41:24] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected Reflection Spawner Block Provider as the provider for SpawnerBlockProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[20:41:24] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[20:41:25] [Server thread/INFO]: [Essentials] Loaded 43465 items from items.json.
+[20:41:25] [Server thread/INFO]: [Essentials] Using locale en
+[20:41:25] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[20:41:25] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[20:41:25] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[20:41:25] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[20:41:25] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[20:41:25] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.6.3
+[20:41:25] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[20:41:25] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[20:41:26] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[20:41:26] [Server thread/INFO]: [ItemEdit] Hooking into PlaceHolderAPI
+[20:41:26] [Server thread/INFO]: [ItemEdit] placeholders:
+[20:41:26] [Server thread/INFO]: [ItemEdit]   %itemedit_amount_<{itemid}>_[{slot}]_[{player}]%
+[20:41:26] [Server thread/INFO]: [ItemEdit]     shows how many itemid player has on slot
+[20:41:26] [Server thread/INFO]: [ItemEdit]     <{itemid}> for item id on serveritem
+[20:41:26] [Server thread/INFO]: [ItemEdit]     [{slot}] for the slot where the item should be counted, by default inventory
+[20:41:26] [Server thread/INFO]: [ItemEdit]       Values: inventory (include offhand), equip (include offhand), inventoryandequip (include offhand), hand, offhand, head, chest, legs, feet
+[20:41:26] [Server thread/INFO]: [ItemEdit]     [{player}] for the player, by default self
+[20:41:26] [Server thread/INFO]: [ItemEdit]     example: %itemedit_amount_{my_item_id}_{hand}%
+[20:41:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemedit [1.0]
+[20:41:26] [Server thread/INFO]: [ItemEdit] # Enabled (took 395 ms)
+[20:41:26] [Server thread/INFO]: [Skript] Enabling Skript v2.10.0
+[20:41:27] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[20:41:28] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[20:41:28] [Server thread/INFO]: [EZColors] Enabling EZColors v2.2.6
+[20:41:29] [ForkJoinPool.commonPool-worker-1/INFO]: [Skript] Loaded 5328 aliases in 707ms
+[20:41:35] [Server thread/INFO]: EZColors »  Successfully downloaded 12 languages from the cloud!
+[20:41:35] [Server thread/INFO]: EZColors »  Loading EZColors v2.2.6!
+[20:41:35] [Server thread/INFO]: EZColors »  Found a compatible version. Hooking into V1_21_R1!
+[20:41:35] [Server thread/INFO]: EZColors »  Using HIGHEST as the Chat Listener.
+[20:41:35] [Server thread/INFO]: EZColors »  Found PlaceholderAPI. Loading hook!
+[20:41:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: ezcolors [1.0.0]
+[20:41:35] [Server thread/INFO]: EZColors »  Successfully Loaded EZColors v2.2.6 in 6777ms!
+[20:41:35] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[20:41:35] [Server thread/INFO]: [TAB] Loaded NMS hook in 71ms
+[20:41:36] [Server thread/INFO]: [TAB] Enabled in 557ms
+[20:41:36] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[20:41:36] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[20:41:36] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[20:41:36] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[20:41:36] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[20:41:36] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[20:41:36] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+155-803771e
+[20:41:36] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[20:41:36] [Server thread/INFO]: [Enchantments_plus] Enabling Enchantments_plus v4.0.5
+[20:41:36] [Server thread/INFO]: [Enchantments_plus] Loading magic compatibillity file, if this step fails you should notify the devs about this.
+[20:41:36] [Server thread/INFO]: [Enchantments_plus] Enchantments+ v4.0.5 started up in 244ms
+[20:41:36] [Server thread/INFO]: [CataMines] Enabling CataMines v2.5.11
+[20:41:36] [Server thread/INFO]: [CataMines] Loading config file
+[20:41:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: catamines [2.5.11]
+[20:41:36] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.12
+[20:41:36] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
+[20:41:36] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[20:41:36] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[20:41:36] [Server thread/INFO]: [AutoPickup] Enabling AutoPickup v1.4.6-SNAPSHOT
+[20:41:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: autopickup [1.0.0]
+[20:41:37] [Server thread/INFO]: [AutoPickup] Checking for new verison...
+[20:41:37] [Server thread/INFO]: [AutoPickup] Plugin is up-to-date.
+[20:41:37] [Server thread/INFO]: [LPC] Enabling LPC v3.6.0
+[20:41:37] [Server thread/INFO]: [ItemTag] Enabling ItemTag v3.5.1
+[20:41:37] [Server thread/INFO]: [ItemTag] Data using Spigot PersistentDataContainer
+[20:41:37] [Server thread/INFO]: [ItemTag] EquipmentChangeListener
+[20:41:37] [Server thread/INFO]: [ItemTag] Hooking into PlaceholderApi
+[20:41:37] [Server thread/INFO]: [ItemTag] Hooked into PlaceHolderAPI:
+[20:41:37] [Server thread/INFO]: [ItemTag] placeholders:
+[20:41:37] [Server thread/INFO]: [ItemTag]   %itemtag_cooldown_<timeunit>_[cooldownid]%
+[20:41:37] [Server thread/INFO]: [ItemTag]     shows how much cooldown has selected cooldownid for player
+[20:41:37] [Server thread/INFO]: [ItemTag]     <timeunit> may be h, s or ms
+[20:41:37] [Server thread/INFO]: [ItemTag]     [cooldownid] for cooldown type, by default default
+[20:41:37] [Server thread/INFO]: [ItemTag]     example: %itemtag_cooldown_s_anid%
+[20:41:37] [Server thread/INFO]: [ItemTag]   %itemtag_handcooldown_<timeunit>%
+[20:41:37] [Server thread/INFO]: [ItemTag]     shows how much cooldown has player on the item in his hand
+[20:41:37] [Server thread/INFO]: [ItemTag]     <timeunit> may be h, s or ms
+[20:41:37] [Server thread/INFO]: [ItemTag]     example: %itemtag_handcooldown_s%
+[20:41:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemtag [1.0]
+[20:41:37] [Server thread/INFO]: [ItemTag] # Enabled (took 101 ms)
+[20:41:37] [Server thread/INFO]: [ServersNPC] Enabling ServersNPC v5.0
+[20:41:37] [Server thread/INFO]: [ChatItem] Enabling ChatItem v2.6.2
+[20:41:37] [Server thread/INFO]: [ChatItem] Detected server version: v1_21 (Platform: PaperMC)
+[20:41:37] [Server thread/INFO]: [ChatItem] Loading own packet system.
+[20:41:37] [Server thread/INFO]: [ChatItem] Use ComponentBuilder's method.
+[20:41:37] [Server thread/INFO]: [ChatItem] Manager automatically chosen: PacketEditing (packet), ChatListener (chat), Paper (paper), Own Formatter (ownformatter)
+[20:41:37] [Server thread/INFO]: [ChatItem] Load PlaceholderAPI, Essentials support.
+[20:41:38] [Server thread/INFO]: [ChatItem] Loaded translation for en_gb.
+[20:41:38] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[20:41:38] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[20:41:38] [Server thread/INFO]: [ClearLag] Loading modules...
+[20:41:38] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[20:41:38] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[20:41:38] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[20:41:38] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[20:41:38] [Thread-14/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[20:41:38] [Thread-14/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[20:41:38] [Thread-14/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[20:41:38] [Thread-14/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[20:41:38] [Thread-14/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[20:41:38] [Thread-14/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[20:41:38] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.23.3
+[20:41:38] [Server thread/INFO]: [Shopkeepers] Loading the data of 45 shopkeepers ...
+[20:41:38] [Server thread/INFO]: [HubThat] Enabling HubThat v10.1.184
+[20:41:38] [Server thread/WARN]: [HubThat] HubThat: Checking if config exists...
+[20:41:38] [Server thread/WARN]: [HubThat] Loading config...
+[20:41:38] [Server thread/INFO]: [HubThat] All files are working correctly.
+[20:41:38] [Server thread/INFO]: [HubThat] Plugin HubThat Successfully Loaded!
+[20:41:38] [Server thread/INFO]: [PlayerVaults] Enabling PlayerVaults v3.6.0-bSNAPSHOT*
+[20:41:38] [Server thread/INFO]: At config. Time since start: 0ms
+[20:41:38] [Server thread/INFO]: At vaultdata. Time since start: 0ms
+[20:41:38] [Server thread/INFO]: At uuid conversion. Time since start: 0ms
+[20:41:38] [Server thread/INFO]: At lang. Time since start: 0ms
+[20:41:38] [Server thread/INFO]: At uuidvaultmanager. Time since start: 0ms
+[20:41:38] [Server thread/INFO]: At registering listeners. Time since start: 0ms
+[20:41:38] [Server thread/INFO]: At loaded signs. Time since start: 0ms
+[20:41:38] [Server thread/INFO]: At check update. Time since start: 0ms
+[20:41:38] [Server thread/INFO]: At registered commands. Time since start: 0ms
+[20:41:38] [Server thread/INFO]: At setup economy. Time since start: 0ms
+[20:41:38] [Server thread/INFO]: At enable done. Time since start: 0ms
+[20:41:38] [Server thread/INFO]: [eShulkerBox] Enabling eShulkerBox v0.6.5
+[20:41:38] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin initializing...
+[20:41:38] [Server thread/INFO]: [ShulkerBox] Initialized 'MessageService'
+[20:41:38] [Server thread/INFO]: [ShulkerBox] Initialized 'CommandService'
+[20:41:38] [Server thread/INFO]: [ShulkerBox] Initialized 'CommandTabListService'
+[20:41:38] [Server thread/INFO]: [ShulkerBox] Initialized 'ShulkerBoxMechanic'
+[20:41:38] [Server thread/INFO]: [Item Mechanic] Loading custom shulker box default_shulkerbox.yaml...
+[20:41:38] [Server thread/INFO]: [Item Mechanic] Loading recipe for custom shulker box default_shulkerbox.yaml...
+[20:41:39] [Server thread/INFO]: [ShulkerBox] Recipe added to the server!
+[20:41:39] [Server thread/INFO]: [Item Mechanic] The custom shulker box default_shulkerbox.yaml was loaded successfully!
+[20:41:39] [Server thread/INFO]: [ShulkerBox] Initialized 'ItemMechanic'
+[20:41:39] [Server thread/INFO]: [ShulkerBox] ShulkerBoxPlugin initialized in 334ms
+[20:41:39] [Server thread/INFO]: [spark] Starting background profiler...
+[20:41:39] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[20:41:39] [Server thread/INFO]: Done preparing level "world" (19.968s)
+[20:41:39] [Server thread/INFO]: Running delayed init tasks
+[20:41:39] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[20:41:39] [Craft Scheduler Thread - 5 - PlayerVaults/INFO]: [PlayerVaults] We didn't find an update!
+[20:41:39] [Craft Scheduler Thread - 9 - DecentHolograms/INFO]: [DecentHolograms] Loading holograms... 
+[20:41:39] [Craft Scheduler Thread - 7 - Essentials/INFO]: [Essentials] Fetching version information...
+[20:41:39] [Craft Scheduler Thread - 9 - DecentHolograms/INFO]: [DecentHolograms] Loaded 2 holograms!
+[20:41:39] [Server thread/INFO]: [Skript] Loading variables...
+[20:41:39] [Server thread/INFO]: [Skript] Loaded 0 variables in 0.0 seconds
+[20:41:39] [Server thread/INFO]: [Skript] All scripts loaded without errors.
+[20:41:39] [Server thread/INFO]: [Skript]     No scripts were found, maybe you should write some ;)
+[20:41:39] [Server thread/INFO]: [Skript] Finished loading.
+[20:41:39] [Server thread/INFO]: [PlayerVaults] ** Vaults have already been converted to UUIDs. If this is incorrect, shutdown your server and rename the plugins/PlayerVaults/uuidvaults directory.
+[20:41:39] [Server thread/INFO]: [CataMines] Loading mines from files...
+[20:41:40] [Server thread/INFO]: [CataMines] Starting mines and registering commands. Running version 2.5.11
+[20:41:40] [Server thread/INFO]: [CataMines] Registering listeners
+[20:41:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: formatter [2.7.0]
+[20:41:40] [Server thread/ERROR]: [PlaceholderAPI] Failed to load expansion class Placeholders - One of its properties is null which is not allowed!
+java.lang.NullPointerException: The expansion version is null!
+	at java.base/java.util.Objects.requireNonNull(Objects.java:259) ~[?:?]
+	at PlaceholderAPI-2.11.6.jar/me.clip.placeholderapi.expansion.manager.LocalExpansionManager.register(LocalExpansionManager.java:181) ~[PlaceholderAPI-2.11.6.jar:?]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at PlaceholderAPI-2.11.6.jar/me.clip.placeholderapi.expansion.manager.LocalExpansionManager.lambda$registerAll$4(LocalExpansionManager.java:366) ~[PlaceholderAPI-2.11.6.jar:?]
+	at PlaceholderAPI-2.11.6.jar/me.clip.placeholderapi.util.Futures.lambda$null$0(Futures.java:46) ~[PlaceholderAPI-2.11.6.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:41:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[20:41:40] [Server thread/ERROR]: [PlaceholderAPI] Failed to load expansion class EZRPExpansion - One of its properties is null which is not allowed!
+java.lang.NullPointerException: Cannot invoke "org.bukkit.plugin.Plugin.isEnabled()" because the return value of "org.bukkit.plugin.PluginManager.getPlugin(String)" is null
+	at com.extendedclip.papi.expansion.ezrp.EZRPExpansion.register(EZRPExpansion.java:44) ~[?:?]
+	at PlaceholderAPI-2.11.6.jar/me.clip.placeholderapi.expansion.manager.LocalExpansionManager.register(LocalExpansionManager.java:193) ~[PlaceholderAPI-2.11.6.jar:?]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.base/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at PlaceholderAPI-2.11.6.jar/me.clip.placeholderapi.expansion.manager.LocalExpansionManager.lambda$registerAll$4(LocalExpansionManager.java:366) ~[PlaceholderAPI-2.11.6.jar:?]
+	at PlaceholderAPI-2.11.6.jar/me.clip.placeholderapi.util.Futures.lambda$null$0(Futures.java:46) ~[PlaceholderAPI-2.11.6.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at org.bukkit.craftbukkit.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:475) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1226) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[20:41:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.3]
+[20:41:40] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion profiles due to a missing plugin: ProFiles
+[20:41:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: moregradients [0.3-BETA]
+[20:41:40] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playertime due to a missing plugin: PlayerTime
+[20:41:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[20:41:40] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion vault due to a missing plugin: Vault
+[20:41:40] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[20:41:40] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion autosell due to a missing plugin: AutoSell
+[20:41:40] [Server thread/INFO]: 6 placeholder hook(s) registered!
+[20:41:40] [Server thread/INFO]: Done (50.524s)! For help, type "help"
+[20:41:40] [Server thread/INFO]: Timings Reset
+[20:41:41] [User Authenticator #0/INFO]: UUID of player Donii is 94247725-e726-3020-bd05-c55edfee83f6
+[20:41:42] [Server thread/INFO]: Donii joined the game
+[20:41:42] [Server thread/INFO]: Donii[/127.179.168.154:53053] logged in with entity id 66 at ([world]-80.98373053371151, 104.0, 819.2361220748545)
+[20:42:08] [luckperms-command-executor/INFO]: [LP] The changes received from the web editor were not made in a session started on this server!
+[20:42:08] [luckperms-command-executor/INFO]: [LP] Are you sure you're running the /lp applyedits command in the right place?
+[20:42:08] [luckperms-command-executor/INFO]: [LP] To ignore this warning and apply the changes anyway, run: /lp applyedits ui0gRHCSj9 --force
+[20:42:20] [luckperms-command-executor/INFO]: [LP] The changes received from the web editor were not made in a session started on this server!
+[20:42:20] [luckperms-command-executor/INFO]: [LP] Are you sure you're running the /lp applyedits command in the right place?
+[20:42:20] [luckperms-command-executor/INFO]: [LP] To ignore this warning and apply the changes anyway, run: /lp applyedits ui0gRHCSj9 --force
+[20:43:05] [luckperms-command-executor/INFO]: [LP] Running LuckPerms v5.4.152.
+[20:43:05] [luckperms-command-executor/INFO]: > /lp user <user>
+[20:43:05] [luckperms-command-executor/INFO]: > /lp group <group>
+[20:43:05] [luckperms-command-executor/INFO]: > /lp track <track>
+[20:43:05] [luckperms-command-executor/INFO]: > /lp log
+[20:43:05] [luckperms-command-executor/INFO]: > /lp sync
+[20:43:05] [luckperms-command-executor/INFO]: > /lp info
+[20:43:05] [luckperms-command-executor/INFO]: > /lp editor [type]
+[20:43:05] [luckperms-command-executor/INFO]: > /lp verbose <on|record|off|upload> [filter]
+[20:43:05] [luckperms-command-executor/INFO]: > /lp tree [scope] [player]
+[20:43:05] [luckperms-command-executor/INFO]: > /lp search <permission>
+[20:43:05] [luckperms-command-executor/INFO]: > /lp networksync
+[20:43:05] [luckperms-command-executor/INFO]: > /lp import <file>
+[20:43:05] [luckperms-command-executor/INFO]: > /lp export <file>
+[20:43:05] [luckperms-command-executor/INFO]: > /lp reloadconfig
+[20:43:05] [luckperms-command-executor/INFO]: > /lp bulkupdate
+[20:43:05] [luckperms-command-executor/INFO]: > /lp translations
+[20:43:05] [luckperms-command-executor/INFO]: > /lp creategroup <group>
+[20:43:05] [luckperms-command-executor/INFO]: > /lp deletegroup <group>
+[20:43:05] [luckperms-command-executor/INFO]: > /lp listgroups
+[20:43:05] [luckperms-command-executor/INFO]: > /lp createtrack <track>
+[20:43:05] [luckperms-command-executor/INFO]: > /lp deletetrack <track>
+[20:43:05] [luckperms-command-executor/INFO]: > /lp listtracks
+[20:43:24] [luckperms-command-executor/INFO]: [LP] Running LuckPerms v5.4.152.
+[20:43:24] [luckperms-command-executor/INFO]: > /lp user <user>
+[20:43:24] [luckperms-command-executor/INFO]: > /lp group <group>
+[20:43:24] [luckperms-command-executor/INFO]: > /lp track <track>
+[20:43:24] [luckperms-command-executor/INFO]: > /lp log
+[20:43:24] [luckperms-command-executor/INFO]: > /lp sync
+[20:43:24] [luckperms-command-executor/INFO]: > /lp info
+[20:43:24] [luckperms-command-executor/INFO]: > /lp editor [type]
+[20:43:24] [luckperms-command-executor/INFO]: > /lp verbose <on|record|off|upload> [filter]
+[20:43:24] [luckperms-command-executor/INFO]: > /lp tree [scope] [player]
+[20:43:24] [luckperms-command-executor/INFO]: > /lp search <permission>
+[20:43:24] [luckperms-command-executor/INFO]: > /lp networksync
+[20:43:24] [luckperms-command-executor/INFO]: > /lp import <file>
+[20:43:24] [luckperms-command-executor/INFO]: > /lp export <file>
+[20:43:24] [luckperms-command-executor/INFO]: > /lp reloadconfig
+[20:43:24] [luckperms-command-executor/INFO]: > /lp bulkupdate
+[20:43:24] [luckperms-command-executor/INFO]: > /lp translations
+[20:43:24] [luckperms-command-executor/INFO]: > /lp creategroup <group>
+[20:43:24] [luckperms-command-executor/INFO]: > /lp deletegroup <group>
+[20:43:24] [luckperms-command-executor/INFO]: > /lp listgroups
+[20:43:24] [luckperms-command-executor/INFO]: > /lp createtrack <track>
+[20:43:24] [luckperms-command-executor/INFO]: > /lp deletetrack <track>
+[20:43:24] [luckperms-command-executor/INFO]: > /lp listtracks
+[20:43:36] [Server thread/INFO]: Donii issued server command: /autopickup
+[20:43:49] [Server thread/INFO]: Donii issued server command: /autopickup
+[20:45:19] [luckperms-command-executor/INFO]: [LP] The changes received from the web editor were not made in a session started on this server!
+[20:45:19] [luckperms-command-executor/INFO]: [LP] Are you sure you're running the /lp applyedits command in the right place?
+[20:45:19] [luckperms-command-executor/INFO]: [LP] To ignore this warning and apply the changes anyway, run: /lp applyedits ui0gRHCSj9 --force
+[20:45:29] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
+[20:45:29] [luckperms-command-executor/INFO]: [LP] (1 addition and 1 deletion)
+[20:45:29] [luckperms-command-executor/INFO]: +  autopickup.pickup (true)
+[20:45:29] [luckperms-command-executor/INFO]: -  autopickup.admin (true)
+[20:45:53] [Server thread/INFO]: Donii issued server command: /autopickup
+[20:46:13] [Server thread/INFO]: Donii issued server command: /autopickup:pickup
+[20:46:33] [luckperms-command-executor/INFO]: [LP] The changes received from the web editor were not made in a session started on this server!
+[20:46:33] [luckperms-command-executor/INFO]: [LP] Are you sure you're running the /lp applyedits command in the right place?
+[20:46:33] [luckperms-command-executor/INFO]: [LP] To ignore this warning and apply the changes anyway, run: /lp applyedits ui0gRHCSj9 --force
+[20:46:48] [luckperms-command-executor/INFO]: [LP] No changes were applied from the web editor, the returned data didn't contain any edits.
+[20:47:51] [Server thread/INFO]: Donii issued server command: /autopickup reload
+[20:48:13] [luckperms-command-executor/INFO]: [LP] The changes received from the web editor were not made in a session started on this server!
+[20:48:13] [luckperms-command-executor/INFO]: [LP] Are you sure you're running the /lp applyedits command in the right place?
+[20:48:13] [luckperms-command-executor/INFO]: [LP] To ignore this warning and apply the changes anyway, run: /lp applyedits E7OlfrSIeD --force
+[20:48:22] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
+[20:48:22] [luckperms-command-executor/INFO]: [LP] (1 addition and 0 deletions)
+[20:48:22] [luckperms-command-executor/INFO]: +  autopickup (true)
+[20:48:48] [Server thread/INFO]: [AutoPickup] Reloaded Config
+[20:49:01] [Server thread/INFO]: Made Donii a server operator
+[20:49:12] [Server thread/INFO]: Donii issued server command: /autopickup reload
+[20:49:19] [Server thread/INFO]: Donii issued server command: /autopickup
+[20:49:44] [Server thread/INFO]: Made Donii no longer a server operator
+[20:50:02] [Server thread/INFO]: Donii issued server command: /autopickup
+[20:50:18] [luckperms-command-executor/INFO]: [LP] The changes received from the web editor were not made in a session started on this server!
+[20:50:18] [luckperms-command-executor/INFO]: [LP] Are you sure you're running the /lp applyedits command in the right place?
+[20:50:18] [luckperms-command-executor/INFO]: [LP] To ignore this warning and apply the changes anyway, run: /lp applyedits E7OlfrSIeD --force
+[20:50:46] [luckperms-command-executor/INFO]: [LP] No changes were applied from the web editor, the returned data didn't contain any edits.
+[20:51:08] [luckperms-command-executor/INFO]: [LP] No changes were applied from the web editor, the returned data didn't contain any edits.
+[20:51:10] [luckperms-command-executor/INFO]: [LP] The changes received from the web editor were not made in a session started on this server!
+[20:51:10] [luckperms-command-executor/INFO]: [LP] Are you sure you're running the /lp applyedits command in the right place?
+[20:51:10] [luckperms-command-executor/INFO]: [LP] To ignore this warning and apply the changes anyway, run: /lp applyedits tOhlJh6ovk --force
+[20:51:21] [luckperms-command-executor/INFO]: [LP] No changes were applied from the web editor, the returned data didn't contain any edits.
+[20:51:44] [luckperms-command-executor/INFO]: [LP] The changes received from the web editor were not made in a session started on this server!
+[20:51:44] [luckperms-command-executor/INFO]: [LP] Are you sure you're running the /lp applyedits command in the right place?
+[20:51:44] [luckperms-command-executor/INFO]: [LP] To ignore this warning and apply the changes anyway, run: /lp applyedits 1nqBfZ6w1P --force
+[20:51:51] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
+[20:51:51] [luckperms-command-executor/INFO]: [LP] (0 additions and 1 deletion)
+[20:51:51] [luckperms-command-executor/INFO]: -  autopickup.pickup (true)
+[20:52:46] [Server thread/INFO]: Donii lost connection: Disconnected
+[20:52:46] [Server thread/INFO]: Donii left the game
+[20:52:50] [User Authenticator #1/INFO]: UUID of player Donii is 94247725-e726-3020-bd05-c55edfee83f6
+[20:52:50] [Server thread/INFO]: Donii joined the game
+[20:52:50] [Server thread/INFO]: Donii[/127.179.168.154:45997] logged in with entity id 692 at ([world]-76.02071420488348, 104.0, 817.2805286659334)
+[20:53:00] [Server thread/INFO]: Donii issued server command: /autopickup
+[20:54:22] [luckperms-command-executor/INFO]: [LP] The changes received from the web editor were not made in a session started on this server!
+[20:54:22] [luckperms-command-executor/INFO]: [LP] Are you sure you're running the /lp applyedits command in the right place?
+[20:54:22] [luckperms-command-executor/INFO]: [LP] To ignore this warning and apply the changes anyway, run: /lp applyedits tZadf1DEEe --force
+[20:54:30] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
+[20:54:30] [luckperms-command-executor/INFO]: [LP] (2 additions and 0 deletions)
+[20:54:30] [luckperms-command-executor/INFO]: +  playervaults.amount.1 (true)
+[20:54:30] [luckperms-command-executor/INFO]: +  playervaults (true)
+[20:54:37] [Server thread/INFO]: Donii issued server command: /pv
+[20:54:38] [Server thread/INFO]: Donii issued server command: /pv 1
+[20:54:47] [Server thread/INFO]: Donii issued server command: /autopickup
+[20:54:55] [Server thread/INFO]: Donii issued server command: /autopickup:auto
+[20:55:00] [Server thread/INFO]: Donii issued server command: /autopickup:autopickup
+[20:55:04] [Server thread/INFO]: Donii issued server command: /auto drops
+[20:55:06] [Server thread/INFO]: Donii issued server command: /auto
+[20:55:11] [Server thread/INFO]: Donii issued server command: /autopickup
+[20:55:18] [Server thread/INFO]: Donii issued server command: /pv 2
+[20:55:20] [Server thread/INFO]: Donii issued server command: /pv 1
+[20:58:27] [luckperms-command-executor/INFO]: [LP] The changes received from the web editor were not made in a session started on this server!
+[20:58:27] [luckperms-command-executor/INFO]: [LP] Are you sure you're running the /lp applyedits command in the right place?
+[20:58:27] [luckperms-command-executor/INFO]: [LP] To ignore this warning and apply the changes anyway, run: /lp applyedits u9Iqgqgnne --force
+[20:58:32] [luckperms-command-executor/INFO]: [LP] Web editor data was applied to group default successfully.
+[20:58:32] [luckperms-command-executor/INFO]: [LP] (3 additions and 0 deletions)
+[20:58:32] [luckperms-command-executor/INFO]: +  autopickup.pickup.mined (true)
+[20:58:32] [luckperms-command-executor/INFO]: +  autopickup.pickup (true)
+[20:58:32] [luckperms-command-executor/INFO]: +  autopickup.pickup.entities (true)
+[20:58:41] [Server thread/INFO]: Donii issued server command: /autopickup
+[20:59:05] [Server thread/INFO]: Donii lost connection: Disconnected
+[20:59:05] [Server thread/INFO]: Donii left the game
+[20:59:11] [User Authenticator #2/INFO]: UUID of player manfromdongnai is 160d8737-231d-3854-93ed-df509328b75f
+[20:59:11] [Server thread/INFO]: manfromdongnai joined the game
+[20:59:11] [Server thread/INFO]: manfromdongnai[/127.179.168.154:38251] logged in with entity id 1026 at ([world]-58.5, 124.0, 805.5)
+[20:59:12] [Server thread/INFO]: manfromdongnai has made the advancement [Getting an Upgrade]
+[21:00:00] [Server thread/INFO]: manfromdongnai issued server command: /autopickup
+[21:02:35] [Server thread/INFO]: manfromdongnai issued server command: /pv 1
+[21:04:13] [Server thread/INFO]: manfromdongnai lost connection: Disconnected
+[21:04:13] [Server thread/INFO]: manfromdongnai left the game
+[21:16:17] [User Authenticator #3/INFO]: UUID of player Baonamne is 16d45b3a-5f17-3dba-bbed-56a5f09f0a70
+[21:16:18] [Server thread/INFO]: Baonamne joined the game
+[21:16:18] [Server thread/INFO]: Baonamne[/127.179.168.154:56859] logged in with entity id 1662 at ([world]-77.73698403190318, 104.0, 806.154268130983)
+[21:17:30] [Server thread/INFO]: Baonamne issued server command: /op
+[21:17:44] [Server thread/INFO]: Made Baonamne a server operator
+[21:21:23] [Server thread/INFO]: Baonamne issued server command: /lp user Baonamne promote sever-ranks
+[21:21:52] [Server thread/INFO]: Baonamne issued server command: /lp user Baonamne demote sever-ranks
+[21:21:52] [luckperms-command-executor/INFO]: [LP] LOG > (Baonamne) [U] (baonamne)
+[21:21:52] [luckperms-command-executor/INFO]: [LP] LOG > demote sever-ranks
+[21:21:57] [Async Chat Thread - #0/INFO]: [Not Secure] OWNER Baonamne: s
+[21:22:31] [Server thread/INFO]: Baonamne issued server command: /chatcolor
+[21:22:31] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:23:08] [Server thread/INFO]: EZColors »  Successfully downloaded 12 languages from the cloud!
+[21:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3919ms or 78 ticks behind
+[21:23:12] [Server thread/INFO]: EZColors »  Successfully downloaded 12 languages from the cloud!
+[21:23:12] [Async Chat Thread - #1/INFO]: [Not Secure] OWNER Baonamne: =)
+[21:23:12] [Server thread/WARN]: Baonamne moved too quickly! -9.121657698329699,1.1661092609382138,-3.9765645474857365
+[21:24:33] [Server thread/INFO]: Baonamne issued server command: /znpcs
+[21:25:41] [Server thread/INFO]: Baonamne issued server command: /znpcs create &#FF0000&lB&#FF0000&la&#FF0000&lo&#FF0000&ln&#FF0000&la&#FF0000&lm&#FF0000&ln&#FF0000&le PLAYER
+[21:26:11] [Server thread/INFO]: Baonamne issued server command: /znpcs create 1 player
+[21:26:14] [Server thread/INFO]: Baonamne issued server command: /znpcs
+[21:26:16] [Server thread/INFO]: Baonamne issued server command: /znpcs conversation
+[21:26:19] [Server thread/INFO]: Baonamne issued server command: /znpcs equip

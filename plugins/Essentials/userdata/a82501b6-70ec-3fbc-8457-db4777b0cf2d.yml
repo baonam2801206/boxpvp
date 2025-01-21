@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.199.72.108
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737347723062
+  login: 1737344706011
+money: '0'
+last-account-name: TonaHoAa
+lastlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -54.54195050945471
+  y: 109.0
+  z: 693.1009368100832
+  yaw: -128.92044067382812
+  pitch: 22.764997482299805
+logoutlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -37.95282310219663
+  y: 104.0
+  z: 802.1942573752211
+  yaw: -15.841156005859375
+  pitch: -0.4685143828392029

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.76.104.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737304919201
+  login: 1737300294650
+money: '0'
+last-account-name: ConNghienKe
+lastlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -121.26494884570077
+  y: 111.0
+  z: 692.8771053042932
+  yaw: -116.09506225585938
+  pitch: 2.137910842895508
+logoutlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -38.287729535906124
+  y: 104.0
+  z: 788.1995857137749
+  yaw: 146.34710693359375
+  pitch: 4.910844802856445
