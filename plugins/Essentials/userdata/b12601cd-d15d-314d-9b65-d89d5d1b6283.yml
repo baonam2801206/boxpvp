@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.76.104.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737285991938
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737300258701
+  login: 1737299291901
+money: '0'
+last-account-name: TrieuVyy
+lastlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -88.7453605572686
+  y: 73.0
+  z: 561.3000000119209
+  yaw: -66.35847473144531
+  pitch: 10.837325096130371
+logoutlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -53.357993175151144
+  y: 104.06795430330757
+  z: 778.6999999880791
+  yaw: -8.980316162109375
+  pitch: 10.646093368530273

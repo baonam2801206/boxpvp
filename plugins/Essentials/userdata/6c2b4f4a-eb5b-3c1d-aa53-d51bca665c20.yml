@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.140.67.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737390788114
+  login: 1737390852522
+money: '0'
+lastlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -55.5
+  y: 124.0
+  z: 807.5
+  yaw: 0.0
+  pitch: 0.0
+last-account-name: HieuNotTOne
+logoutlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -11.034590711485256
+  y: 127.0
+  z: 609.4769540974855
+  yaw: -160.49755859375
+  pitch: 27.782798767089844

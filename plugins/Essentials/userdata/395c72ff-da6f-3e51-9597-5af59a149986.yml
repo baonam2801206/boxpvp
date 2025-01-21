@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.183.23.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737277609201
+  login: 1737275689538
+money: '0'
+last-account-name: SieuNhanVangg
+lastlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -55.5
+  y: 124.0
+  z: 804.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -58.88746536156814
+  y: 109.15380404100293
+  z: 749.8792009396536
+  yaw: 8.00390625
+  pitch: 3.9122531414031982

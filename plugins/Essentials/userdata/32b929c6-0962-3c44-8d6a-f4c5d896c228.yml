@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.199.72.108
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737291153467
+  login: 1737291103665
+money: '0'
+last-account-name: Teo123
+lastlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -69.5
+  y: 124.0
+  z: 806.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -37.11867994274648
+  y: 78.0
+  z: 746.295909347062
+  yaw: -13.630645751953125
+  pitch: 11.083354949951172

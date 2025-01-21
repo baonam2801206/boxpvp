@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.179.168.154
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737407053140
+  login: 1737406751906
+money: '0'
+last-account-name: manfromdongnai
+lastlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -58.5
+  y: 124.0
+  z: 805.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -48.01686313979754
+  y: 104.0
+  z: 797.0721563703406
+  yaw: 54.315460205078125
+  pitch: 50.03648376464844

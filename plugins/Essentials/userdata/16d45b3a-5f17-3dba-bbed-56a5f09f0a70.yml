@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.179.168.154
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737393865500
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737404893638
+  login: 1737407778191
+  kits:
+    tools: 1737263404927
+money: '0'
+last-account-name: Baonamne
+logoutlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -77.73698403190318
+  y: 104.0
+  z: 806.154268130983
+  yaw: 58.31982421875
+  pitch: 4.43227481842041
+lastlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -55.29087684540452
+  y: 78.0
+  z: 700.8243318794621
+  yaw: 135.6015625
+  pitch: 3.293534278869629
+nickname: Baonamne

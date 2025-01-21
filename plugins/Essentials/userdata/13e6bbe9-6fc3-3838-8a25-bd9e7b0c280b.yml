@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.247.105.219
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737347554828
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737391467367
+  login: 1737391434865
+money: '0'
+last-account-name: chaocaccau
+lastlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -90.55119727282393
+  y: 91.4314300359395
+  z: 664.6181779155025
+  yaw: -129.4415740966797
+  pitch: -2.1636862754821777
+logoutlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -11.023437126999541
+  y: 117.47768974268995
+  z: 600.6474119343906
+  yaw: -85.23480224609375
+  pitch: 10.048038482666016

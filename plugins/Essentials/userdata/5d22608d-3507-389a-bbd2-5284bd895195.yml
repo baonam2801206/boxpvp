@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.247.105.219
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737264056378
+  login: 1737264050077
+money: '0'
+last-account-name: BabyThree
+lastlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -71.5
+  y: 124.0
+  z: 791.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 8057e279-f0b7-401b-a009-51bb051ee284
+  world-name: world
+  x: -69.91814151601264
+  y: 104.0
+  z: 817.8068489135741
+  yaw: -12.211705207824707
+  pitch: 27.278223037719727
